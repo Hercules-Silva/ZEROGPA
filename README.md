@@ -18,7 +18,7 @@ O ZEROGPA é ideal para quem:
 1. Baixe a última versão do script:
 
    ```bash
-   wget https://github.com/Hercules-Silva/ZEROGPA/blob/main/fedora-banner-inteligente.sh -O ~/.fedora-banner-inteligente.sh
+   wget https://raw.githubusercontent.com/Hercules-Silva/ZEROGPA/main/fedora-banner-inteligente.sh -O ~/.fedora-banner-inteligente.sh
    ```
 
 2. Dê permissão de execução:
